@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "prox3000\\gallery\\": "src\\"
+            "prox3000\\gallery\\": "src/"
         }
     }
 }
