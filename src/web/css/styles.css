@@ -1,0 +1,32 @@
+.prox3000-gallery {
+    list-style-type:none; 
+    margin-left: -45px;
+}
+
+.prox3000-gallery-item{
+    list-style: none;
+    float: left;
+    overflow: hidden;
+    padding: 3px;
+    margin: 3px;
+    border: 2px solid #333;
+    position: relative;
+}
+
+.prox3000-gallery .main {
+    border: 2px solid red;
+}
+
+.prox3000-gallery-item a.delete {
+    position: absolute;
+    right: 1px;
+    top: 0px;
+    color: red;
+}
+
+.prox3000-gallery-item a.write {
+    position: absolute;
+    top: 0px;
+    color: green;
+    text-shadow: 1px 1px 4px black ;
+}
