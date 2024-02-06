@@ -4,7 +4,7 @@
     "keywords": ["yii2", "yii2", "application", "images", "yii2-images", "prox3000"],
     "homepage": "https://github.com/prox3000/yii2-gallery",
     "type": "yii2-extension",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "support": {
         "source": "https://github.com/prox3000/yii2-gallery"
     },
@@ -16,7 +16,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.4.0",
         "yiisoft/yii2": "*",
         "yiisoft/yii2-bootstrap5": "*",
         "kartik-v/yii2-widget-fileinput": "*",
